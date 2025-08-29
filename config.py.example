@@ -1,0 +1,9 @@
+# Copy to config.py and fill secrets
+TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+ADMIN_CHAT_ID = 123456789
+ADMINS = [123456789]
+# Optional IDs & URLs used by some bots
+PODCAST_BOT = TOKEN
+PODCAST_chat_id = ADMIN_CHAT_ID
+PODCAST_channel_id = ADMIN_CHAT_ID
+AMCHAM_BOT = TOKEN

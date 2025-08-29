@@ -1,0 +1,11 @@
+{
+  "topics": [
+    "python",
+    "telegram-bot",
+    "python-telegram-bot",
+    "aiosqlite",
+    "catalog",
+    "entertainment"
+  ],
+  "about": "Каталог дорам с поиском/оценками."
+}
