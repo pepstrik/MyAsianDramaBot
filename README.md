@@ -17,3 +17,7 @@ pip install -r requirements.txt
 cp config.py.example config.py
 python NeZabuDrama.py
 ```
+## Demo
+![Screenshot](assets/screenshot.jpg)
+
+> See [PORTFOLIO_ONLY.md](PORTFOLIO_ONLY.md) for showcase disclaimer.
