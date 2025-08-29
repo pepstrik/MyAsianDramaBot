@@ -20,3 +20,6 @@ Python · python-telegram-bot v20 · aiosqlite · asyncio
 ![Screenshot](assets/screenshot.jpg)
 
 > См. [PORTFOLIO_ONLY.md](PORTFOLIO_ONLY.md) для пояснения.
+
+> English version: [README_EN.md](README_EN.md)
+
